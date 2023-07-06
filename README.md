@@ -2,6 +2,7 @@
 
  Horiseon-Wireless
 
+
 ## User Story
 
 ```
@@ -9,6 +10,7 @@ As a marketing agency the associated website is expected to:
 Have a codebase that follows accessibility standards    &
 Be optimized for optimized for search engines
 ```
+
 
 ## Acceptance Criteria
 
@@ -21,10 +23,12 @@ The heading attributes fall in sequential order ,
 Viewing the title element, shows a concise, descriptive title
 ```
 
+
 # Mock up
 
 The following image shows the web application's appearance and functionality: 
 [Alt Image](assets/images/01-html-css-git-demo.png)
+
 
 # Deployed Site link
 
