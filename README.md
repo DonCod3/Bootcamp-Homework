@@ -32,5 +32,4 @@ The following image shows the web application's appearance and functionality:
 
 # Deployed Site link
 
-https://doncod3.github.io/Bootcamp-Homework/
-
+https://doncod3.github.io/Horiseon-Wireless/
