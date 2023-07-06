@@ -24,7 +24,7 @@ Viewing the title element, shows a concise, descriptive title
 # Mock up
 
 The following image shows the web application's appearance and functionality: 
-src="./assets/images/01-html-css-git-demo.png" 
+[Alt Image](assets/images/01-html-css-git-demo.png)
 
 # Deployed Site link
 
